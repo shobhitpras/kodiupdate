@@ -1,14 +1,14 @@
 
 name="RELEASED 29th AUG"
 url="http://bit.ly/1Jk5lq0"
-img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
-fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
+img=""
+fanart=""
 description="KODI Fully Loaded Updater"
 
 name="RELEASED 27th AUG"
 url="http://bit.ly/1Jk5lq0"
-img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
-fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
+img=""
+fanart=""
 description="KODI Fully Loaded Setup Updater"
 
 
