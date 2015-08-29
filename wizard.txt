@@ -1,13 +1,13 @@
 
 name="RELEASED 29th AUG"
 url="http://bit.ly/1Jk5lq0"
-img="https://farm1.staticflickr.com/714/20782169580_edbb42ac0c_o.jpg"
+img="https://farm6.staticflickr.com/5824/20782333698_745649b0bd_o.jpg"
 fanart="https://farm1.staticflickr.com/714/20782169580_edbb42ac0c_o.jpg"
 description="KODI Fully Loaded Updater"
 
 name="RELEASED 27th AUG"
 url="http://bit.ly/1Jk5lq0"
-img="https://farm1.staticflickr.com/714/20782169580_edbb42ac0c_o.jpg"
+img="https://farm6.staticflickr.com/5824/20782333698_745649b0bd_o.jpg"
 fanart="https://farm1.staticflickr.com/714/20782169580_edbb42ac0c_o.jpg"
 description="KODI Fully Loaded Setup Updater"
 
