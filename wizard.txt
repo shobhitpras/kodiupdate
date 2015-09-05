@@ -1,4 +1,10 @@
 
+name="RELEASED 5th SEP"
+url="http://bit.ly/1JV8X1b"
+img="https://farm6.staticflickr.com/5824/20782333698_745649b0bd_o.jpg"
+fanart="https://farm1.staticflickr.com/714/20782169580_edbb42ac0c_o.jpg"
+description="KODI Fully Loaded Updater"
+
 name="RELEASED 29th AUG"
 url="http://bit.ly/1EqZnqT"
 img="https://farm6.staticflickr.com/5824/20782333698_745649b0bd_o.jpg"
